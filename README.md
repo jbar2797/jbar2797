@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbar2797
-- 👀 I’m interested in Web3 and NFT's
-- 🌱 I’m currently learning basics of smart contract setup
-- 💞️ I’m looking to collaborate on NFT's and DApp's
+- 👀 I’m interested in Web3, Cloud Engineering, SRE
+- 🌱 I’m currently going through a cloud engineering bootcamp
+- 💞️ I’m looking to collaborate with others on Web3 projects
 - 📫 How to reach me: Twitter: https://Twitter.com/xJbarNFT
 
 <!---
