@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jbar2797
-- 👀 I’m interested in Web3, Cloud Engineering, SRE
-- 🌱 I’m currently going through a cloud engineering bootcamp
-- 💞️ I’m looking to collaborate with others on Web3 projects
-- 📫 How to reach me: Twitter: https://Twitter.com/xJbarNFT
+- 👀 I’m interested in Game Dev & Cloud Engineering
+- 🌱 I’m currently brainstorming idea's for my multiplayer game
+- 💞️ I’m looking to collaborate with others on game projects
+- 📫 How to reach me: jonathanbarreneche@gmail.com
 
 <!---
 jbar2797/jbar2797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
